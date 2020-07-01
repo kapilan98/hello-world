@@ -1,0 +1,16 @@
+[debug] [2020-06-27T11:25:56.488Z] ----------------------------------------------------------------------
+[debug] [2020-06-27T11:25:56.494Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Kapilan Veera\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2020-06-27T11:25:56.494Z] CLI Version:   8.4.3
+[debug] [2020-06-27T11:25:56.495Z] Platform:      win32
+[debug] [2020-06-27T11:25:56.495Z] Node Version:  v12.16.1
+[debug] [2020-06-27T11:25:56.497Z] Time:          Sat Jun 27 2020 16:55:56 GMT+0530 (India Standard Time)
+[debug] [2020-06-27T11:25:56.497Z] ----------------------------------------------------------------------
+[debug] [2020-06-27T11:25:56.498Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=329202831&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
